@@ -25,13 +25,5 @@
 ## 🔧 Status
 **Currently under development**: design optimization, wiring diagrams, Arduino/Python firmware, and vision-based control scripts are being uploaded progressively.
 
-## 📁 Repository Structure
-```
-/CAD/         → 3D models (STL, STEP)
-/Firmware/    → Arduino code and libraries
-/Software/    → Python scripts, vision, and control logic
-/Docs/        → Build instructions, wiring diagrams, BOM
-```
-
 ## 🤖 License
 This project is open-source under the MIT License. Feel free to fork, modify, and contribute!
